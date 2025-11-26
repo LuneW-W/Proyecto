@@ -1,0 +1,13 @@
+openai
+langchain
+faiss-cpu
+tiktoken
+numpy
+pandas
+scikit-learn
+Flask
+python-dotenv
+requests
+matplotlib
+seaborn
+jupyter
